@@ -1,0 +1,285 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"o",
+				"output"
+			],
+			[
+				"Qu",
+				"QuestionAdmin"
+			],
+			[
+				"adm",
+				"admin"
+			],
+			[
+				"ques",
+				"question_text"
+			],
+			[
+				"li",
+				"link	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Arildo/Desktop/test_django",
+		"/C/Users/Arildo/Desktop/test_django/test_django"
+	],
+	"file_history":
+	[
+		"/C/Users/Arildo/OneDrive/Python/Scripts/hotel/hotel_classes.py",
+		"/C/Users/Arildo/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Arildo/Desktop/test_django/test_django/settings.py",
+		"/C/Users/Arildo/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/Arildo/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/C/Users/Arildo/Desktop/blog/blog/urls.py",
+		"/C/Users/Arildo/Desktop/blog/manage.py",
+		"/C/Users/Arildo/OneDrive/WindowsPowerShell/Microsoft.PowerShell_profile.ps1",
+		"/C/Users/Arildo/Desktop/mysite/mysite/urls.py",
+		"/C/Users/Arildo/Desktop/mysite/polls/urls.py",
+		"/C/Users/Arildo/Desktop/mysite/templates/polls/index.html",
+		"/C/Users/Arildo/Desktop/mysite/templates/polls/detail.html",
+		"/C/Users/Arildo/Desktop/mysite/templates/polls/results.html",
+		"/C/Users/Arildo/Desktop/mysite/polls/models.py",
+		"/C/Users/Arildo/Desktop/mysite/polls/admin.py",
+		"/C/Users/Arildo/Desktop/mysite/mysite/settings.py",
+		"/C/Users/Arildo/Desktop/mysite/templates/admin/base_site.html",
+		"/C/Users/Arildo/Desktop/mysite/polls/views.py",
+		"/C/Users/Arildo/Downloads/virtualenvwrapper-powershell-12.7.8/setup.py",
+		"/C/Users/Arildo/Downloads/virtualenvwrapper-powershell-12.7.8/virtualenvwrapper-powershell-12.7.8/setup.py",
+		"/C/Users/Arildo/Desktop/test_django/Scripts/activate.ps1",
+		"/C/Users/Arildo/Desktop/minefield_python/main.py",
+		"/C/Users/Arildo/Desktop/minefield_python/minefield.py",
+		"/C/Users/Arildo/Desktop/cm/main.py",
+		"/C/Users/Arildo/Desktop/cm/minefield.py",
+		"/C/Users/Arildo/OneDrive/Python/Scripts/hotel/exerciciohotel_v3.py",
+		"/C/Users/Arildo/Desktop/cm/campominado.py",
+		"/C/Users/Arildo/OneDrive/Python/Scripts/exercicio_prec/precipitacao.py",
+		"/C/Users/Arildo/OneDrive/htdocs/vagando/index.php",
+		"/C/Users/Arildo/Desktop/concessionaria/templates/chevrolet.php",
+		"/C/Users/Arildo/OneDrive/htdocs/pos_concessionaria/chevrolet.php",
+		"/C/Users/Arildo/Desktop/concessionaria/routes.py",
+		"/C/Users/Arildo/Desktop/concessionaria/templates/revisao.php",
+		"/C/Users/Arildo/Desktop/concessionaria/templates/template.php",
+		"/C/Users/Arildo/Desktop/concessionaria/templates/cadastro.php",
+		"/C/Users/Arildo/Desktop/concessionaria/templates/login.php",
+		"/C/Users/Arildo/Desktop/concessionaria/templates/index.php",
+		"/C/Users/Arildo/Desktop/teste/templates/concessionaria/index.php",
+		"/C/Users/Arildo/Desktop/teste/templates/concessionaria/chevrolet.php",
+		"/C/Users/Arildo/AppData/Local/Temp/Rar$DIa0.460/chevrolet.php",
+		"/C/Users/Arildo/Desktop/teste/templates/concessionaria/cadastro.php",
+		"/C/Users/Arildo/Desktop/teste/templates/concessionaria/login.php",
+		"/C/Users/Arildo/Desktop/teste/templates/concessionaria/revisao.php",
+		"/C/Users/Arildo/Desktop/teste/templates/concessionaria/template.php",
+		"/C/Users/Arildo/Desktop/teste/routes.py",
+		"/C/Users/Arildo/Desktop/teste/templates/concessionaria/views/chevrolet.php",
+		"/C/Users/Arildo/Desktop/teste/templates/concessionaria/views/login.php",
+		"/C/Users/Arildo/Desktop/teste/templates/concessionaria/views/revisao.php",
+		"/C/Users/Arildo/Desktop/teste/templates/concessionaria/views/template.php",
+		"/C/Users/Arildo/Desktop/teste/templates/concessionaria/views/index.php",
+		"/C/Users/Arildo/Desktop/teste/templates/concessionaria/views/cadastro.php",
+		"/C/Users/Arildo/OneDrive/Python/Flask/teste/routes.py",
+		"/C/Users/Arildo/OneDrive/Python/Flask/teste/concessionaria/templates/index.php",
+		"/C/Users/Arildo/OneDrive/Python/Flask/teste/templates/template.php",
+		"/C/Users/Arildo/OneDrive/Python/Flask/teste/pos_concessionaria/index.php",
+		"/C/Users/Arildo/OneDrive/Python/Flask/teste/concessionaria/index.php",
+		"/C/Users/Arildo/OneDrive/Python/Flask/teste/templates/cadastro.php",
+		"/C/Users/Arildo/OneDrive/Python/Flask/teste/templates/chevrolet.php",
+		"/C/Users/Arildo/OneDrive/Python/Flask/teste/templates/index.php",
+		"/C/Users/Arildo/OneDrive/Python/Flask/teste/templates/login.php",
+		"/C/Users/Arildo/OneDrive/Python/Flask/teste/templates/revisao.php",
+		"/C/Users/Arildo/OneDrive/Python/Flask/teste/templates/header.php",
+		"/C/Users/Arildo/OneDrive/Python/Flask/teste/templates/welcome.php",
+		"/C/Users/Arildo/OneDrive/Python/Flask/teste/templates/home.php",
+		"/C/Users/Arildo/OneDrive/Python/Django/mysite/polls/urls.py",
+		"/C/Users/Arildo/OneDrive/Python/Django/mysite/mysite/urls.py",
+		"/C/Users/Arildo/OneDrive/Python/Django/mysite/manage.py",
+		"/C/Users/Arildo/OneDrive/Python/Django/mysite/polls/views.py",
+		"/C/Users/Arildo/OneDrive/Python/Django/mysite/runserver",
+		"/C/Users/Arildo/OneDrive/Python/Django/mysite/80",
+		"/C/Users/Arildo/OneDrive/Python/Django/mysite/urls.py",
+		"/C/Users/Arildo/OneDrive/Python/Django/mysite/templates/admin/base_site.html",
+		"/C/Users/Arildo/OneDrive/Python/Django/mysite/mysite/settings.py",
+		"/C/Users/Arildo/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Arildo/OneDrive/Python/Django/mysite/polls/models.py",
+		"/C/Users/Arildo/OneDrive/Python/Django/mysite/polls/admin.py",
+		"/C/Users/Arildo/OneDrive/Linux/scripts/Decollo/decodescript.py",
+		"/C/Users/Arildo/OneDrive/Linux/scripts/Decollo/decolib.py",
+		"/C/Users/Arildo/OneDrive/Linux/scripts/Decollo/decollo",
+		"/C/Users/Arildo/OneDrive/Python_Shellscript/script_standart/script.py"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\Arildo\\Desktop\\teste\\templates\\concessionaria"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"template",
+			"line",
+			"concessionaria/",
+			"//",
+			"{% extends '/concessionaria/views/template.php' %}"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"/",
+			"{% extends '/concessionaria/template.php' %}"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
