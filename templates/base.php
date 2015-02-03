@@ -53,15 +53,11 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="brand" href="#">Django</a>
+          <a class="brand" href="/">Django</a>
           <div class="nav-collapse collapse">
-            <p class="navbar-text pull-right">
-              Logged in as <a href="#" class="navbar-link">Username</a>
-            </p>
             <ul class="nav">
-              <li class="active"><a href="#">Home</a></li>
-              <li><a href="#about">About</a></li>
-              <li><a href="#contact">Contact</a></li>
+              <li><a href="/">Home</a></li>
+              <li><a href="/addfood">Add Food</a></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div>
@@ -73,19 +69,8 @@
         <div class="span3">
           <div class="well sidebar-nav">
             <ul class="nav nav-list">
-              <li class="nav-header">Sidebar</li>
+              <li class="nav-header">Links</li>
               <li class="active"><a href="#">Link</a></li>
-              <li><a href="#">Link</a></li>
-              <li><a href="#">Link</a></li>
-              <li><a href="#">Link</a></li>
-              <li class="nav-header">Sidebar</li>
-              <li><a href="#">Link</a></li>
-              <li><a href="#">Link</a></li>
-              <li><a href="#">Link</a></li>
-              <li><a href="#">Link</a></li>
-              <li><a href="#">Link</a></li>
-              <li><a href="#">Link</a></li>
-              <li class="nav-header">Sidebar</li>
               <li><a href="#">Link</a></li>
               <li><a href="#">Link</a></li>
               <li><a href="#">Link</a></li>
@@ -98,18 +83,17 @@
             <p>This is a template for a simple marketing or informational website. It includes a large callout called the hero unit and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
             <p><a href="#" class="btn btn-primary btn-large">Learn more &raquo;</a></p>
           </div>
-          <div class="row-fluid">
           {% block content %}
             
+
           {% endblock %}
-          </div><!--/row-->
         </div><!--/span-->
       </div><!--/row-->
 
       <hr>
 
       <footer>
-        <p>&copy; Company 2013</p>
+        <p>&copy; Arildo - 2015</p>
       </footer>
 
     </div><!--/.fluid-container-->

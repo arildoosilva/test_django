@@ -1,11 +1,14 @@
 from django.shortcuts import render
 
 # Create your views here.
-from .forms import FoodForm, AddForm
+#from .forms import FoodForm
+from .forms import AddForm
 from .models import Food
 
 def home(request):
-	context = {}
+	context = {
+	'foods': Food.objects.all()
+	}
 	template = 'home.php'
 	return render(request, template, context)
 

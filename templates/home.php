@@ -1,8 +1,22 @@
 {% extends 'base.php' %}
 {% block content %}
+<div class="row-fluid">
+{% for food in foods|slice:":3" %}
 <div class="span4">
-	<h2>Heading</h2>
-	<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-	<p><a class="btn" href="#">View details &raquo;</a></p>
+	<h2>{{ food.title }}</h2>
+	<p>{{ food.description }}</p>
+	<p><a class="btn" href="#">Detalhes &raquo;</a></p>
 </div><!--/span-->
+{% endfor %}
+</div><!--/row-->
+<div class="row-fluid">
+{% for food in foods|slice:"3:" %}
+<div class="span4">
+	<h2>{{ food.title }}</h2>
+	<p>{{ food.description }}</p>
+	<p><a class="btn" href="#">Detalhes &raquo;</a></p>
+</div><!--/span-->
+{% endfor %}
+</div><!--/row-->
 {% endblock %}
+
