@@ -4,8 +4,11 @@ from django.contrib import admin
 from .models import Food
 
 class FoodAdmin(admin.ModelAdmin):
-	list_display = ['title', 'description', 'timestamp', 'updated']
+	list_display = ['__str__', 'title', 'description', 'timestamp', 'updated']
 	search_fields = ['title', 'description']
+	list_editable = ['title', 'description']
+	def __str__(self):
+		return self.title
 	class Meta:
 		model = Food
 
